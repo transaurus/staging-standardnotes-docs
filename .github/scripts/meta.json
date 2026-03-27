@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/standardnotes/docs",
+  "branch": "main",
+  "docusaurusRoot": ".",
+  "configFile": "docusaurus.config.js",
+  "translateCommand": "yarn write-translations",
+  "buildCommand": "NODE_OPTIONS=--openssl-legacy-provider yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
