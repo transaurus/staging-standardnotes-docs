@@ -1,0 +1,50 @@
+{
+  "title": {
+    "message": "Standard Notes",
+    "description": "The title in the navbar"
+  },
+  "item.label.Developers": {
+    "message": "Developers",
+    "description": "Navbar item with label Developers"
+  },
+  "item.label.Encrypted Notes App": {
+    "message": "Encrypted Notes App",
+    "description": "Navbar item with label Encrypted Notes App"
+  },
+  "item.label.Standard Notes Website": {
+    "message": "Standard Notes Website",
+    "description": "Navbar item with label Standard Notes Website"
+  },
+  "item.label.Help": {
+    "message": "Help",
+    "description": "Navbar item with label Help"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Self-Host a Sync Server": {
+    "message": "Self-Host a Sync Server",
+    "description": "Navbar item with label Self-Host a Sync Server"
+  },
+  "item.label.Client Encryption API": {
+    "message": "Client Encryption API",
+    "description": "Navbar item with label Client Encryption API"
+  },
+  "item.label.Server API": {
+    "message": "Server API",
+    "description": "Navbar item with label Server API"
+  },
+  "item.label.Build an Extension": {
+    "message": "Build an Extension",
+    "description": "Navbar item with label Build an Extension"
+  },
+  "item.label.Build an Editor": {
+    "message": "Build an Editor",
+    "description": "Navbar item with label Build an Editor"
+  }
+}
