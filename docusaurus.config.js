@@ -2,6 +2,10 @@ const math = require('remark-math');
 const katex = require('rehype-katex');
 
 module.exports = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: 'Standard Notes Documentation',
   tagline: 'Extend Your Notes App',
   url: 'https://docs.standardnotes.com',

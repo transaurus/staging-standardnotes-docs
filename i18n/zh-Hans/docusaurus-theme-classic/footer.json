@@ -1,0 +1,54 @@
+{
+  "link.title.Developers": {
+    "message": "Developers",
+    "description": "The title of the footer links column with title=Developers in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Support": {
+    "message": "Support",
+    "description": "The title of the footer links column with title=Support in the footer"
+  },
+  "link.item.label.Self-Host a Sync Server": {
+    "message": "Self-Host a Sync Server",
+    "description": "The label of footer link with label=Self-Host a Sync Server linking to /self-hosting/getting-started"
+  },
+  "link.item.label.Build an Extension": {
+    "message": "Build an Extension",
+    "description": "The label of footer link with label=Build an Extension linking to /extensions/intro"
+  },
+  "link.item.label.Encryption Specification": {
+    "message": "Encryption Specification",
+    "description": "The label of footer link with label=Encryption Specification linking to /specification/encryption"
+  },
+  "link.item.label.Join our Slack": {
+    "message": "Join our Slack",
+    "description": "The label of footer link with label=Join our Slack linking to https://standardnotes.com/slack"
+  },
+  "link.item.label.Community Forum": {
+    "message": "Community Forum",
+    "description": "The label of footer link with label=Community Forum linking to https://forum.standardnotes.org"
+  },
+  "link.item.label.Listed Blogging Platform": {
+    "message": "Listed Blogging Platform",
+    "description": "The label of footer link with label=Listed Blogging Platform linking to https://listed.to"
+  },
+  "link.item.label.Help & Contact": {
+    "message": "Help & Contact",
+    "description": "The label of footer link with label=Help & Contact linking to https://standardnotes.com/help"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/standardnotes"
+  },
+  "link.item.label.Reddit": {
+    "message": "Reddit",
+    "description": "The label of footer link with label=Reddit linking to https://reddit.com/r/standardnotes"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 <a href=\"https://standardnotes.com\">Standard Notes</a>",
+    "description": "The footer copyright"
+  }
+}
